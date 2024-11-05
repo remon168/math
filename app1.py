@@ -2,7 +2,7 @@
 import streamlit as st      
 
 # 제목 쓰기
-st.title('동생아 do math')  
+st.title('동생아 let's study math')  
 # 부제목 쓰기
 st.subheader('오늘의 주제: positive and negative')
 # 본문 쓰기
